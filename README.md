@@ -55,10 +55,14 @@
       <img src="https://img.shields.io/badge/-Volatility%203-000000?&style=for-the-badge&logo=appveyor&logoColor=white" />
       <img src="https://img.shields.io/badge/-Deep%20Blue%20CLI-0033A0?&style=for-the-badge&logo=windows&logoColor=white" />
   </div>
-
-  ## Certifications
+  
+  ## Training
   <div>
   <img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201-00A8E8?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+  </div>
+  
+  ## Certifications
+  <div>  
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   <img src="https://img.shields.io/badge/-Fortinet%20NSE%203%20Network%20Security%20Associate-003E6C?&style=for-the-badge&logo=Fortinet&logoColor=white" />
   <img src="https://img.shields.io/badge/-Huawei%20HCIA%20Cloud%20Computing-00B3E2?&style=for-the-badge&logo=Huawei&logoColor=white" />
