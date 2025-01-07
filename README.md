@@ -19,7 +19,7 @@
   | Network Intrusion Detection System           | <a href="https://github.com/edgonzalesjr/Snort-Intrusion-Detection-System">Snort</a>|
   | Malware Threat Assessment                     | <a href="https://github.com/edgonzalesjr/Malware-Analysis-Techniques">Malware Analysis Techniques</a>|
   | Windows Forensics                            | <a href="https://github.com/edgonzalesjr/Windows-Memory-and-Event-Log-Analysis">Windows Memory and Event Log Analysis</a>|
-  | Phishing Threat Assessment                     | <a href="https://github.com/edgonzalesjr/Phishing-Threat-Analysis">Phishing Analysis Techniques</a>|
+  | Phishing Threat Assessment                     | <a href="https://github.com/edgonzalesjr/Phishing-Threat-Analysis">OSINT-Based Phishing Email Analysis</a>|
 
   ## Tools
 
@@ -70,4 +70,5 @@
   - <a href="https://github.com/edgonzalesjr/Snort-Intrusion-Detection-System">Snort Intrusion Detection System</a>
   - <a href="https://github.com/edgonzalesjr/Malware-Analysis-Techniques">Malware Analysis Techniques</a>
   - <a href="https://github.com/edgonzalesjr/Windows-Memory-and-Event-Log-Analysis">Windows Memory and Event Log Analysis</a>
-  - <a href="https://github.com/edgonzalesjr/Phishing-Threat-Analysis">Phishing Threat Analysis</a>
+  - <a href="https://github.com/edgonzalesjr/Phishing-Threat-Analysis">OSINT-Based Phishing Email Analysis</a>
+  - <a href="https://github.com/edgonzalesjr/Phishing-Attack-Investigation-lnk">Phishing Email Analysis</a>
