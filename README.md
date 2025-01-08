@@ -76,3 +76,4 @@
   - <a href="https://github.com/edgonzalesjr/Windows-Memory-and-Event-Log-Analysis">Windows Memory and Event Log Analysis</a>
   - <a href="https://github.com/edgonzalesjr/Phishing-Threat-Analysis">OSINT-Based Phishing Email Analysis</a>
   - <a href="https://github.com/edgonzalesjr/Phishing-Attack-Investigation-lnk">Phishing Email Analysis</a>
+  - <a href="https://github.com/edgonzalesjr/Phishing-Attack-Investigation-doc">Phishing & Persistence Analysis</a>
