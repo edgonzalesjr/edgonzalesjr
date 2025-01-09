@@ -78,3 +78,4 @@
   - <a href="https://github.com/edgonzalesjr/Phishing-Attack-Investigation-lnk">Phishing Email Analysis</a>
   - <a href="https://github.com/edgonzalesjr/Phishing-Attack-Investigation-doc">Phishing & Persistence Analysis</a>
   - <a href="https://github.com/edgonzalesjr/Phishing-Attack-Investigation-hta">Phishing & Lateral Movement Investigation</a>
+  - <a href="https://github.com/edgonzalesjr/Ransomware-Investigation-with-Splunk">Ransomware Investigation with Splunk</a>
