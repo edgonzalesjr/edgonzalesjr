@@ -6,21 +6,21 @@
 
   CompTIA Security+ certified Security Analyst with practical SOC experience gained through hands-on cybersecurity lab projects, completion of TryHackMe's SOC Level 1 learning path, and active participation in the Advent of Cyber 2024 event. Proven skills in threat intelligence, network and endpoint security monitoring, SIEM technologies, digital forensics, and incident response. Background in IT and network administration provides a strong foundation for understanding complex IT environments. Eager to join a collaborative cybersecurity team and contribute to a robust security posture.
 
-  ## Skills
+## Skills
 
-  | Skill                                         | Associated Project         |
-  |-----------------------------------------------|----------------------------|
-  | SIEM Implementation and Log Analysis          | <a href="https://github.com/edgonzalesjr/Detection-Lab">Detection Lab</a>|
-  | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/edgonzalesjr/Detecton-Lab">Detection Lab</a>|
-  | Security Automation with Shuffle SOAR         | <a href="https://github.com/edgonzalesjr/SOC-Automation-Lab">SOC Automation Lab</a>|
-  | Incident Response Planning and Execution      | <a href="https://github.com/edgonzalesjr/SOC-Automation-Lab">SOC Automation Lab</a>|
-  | Case Management with TheHive                  | <a href="https://github.com/edgonzalesjr/SOC-Automation-Lab">SOC Automation Lab</a>|
-  | Scripting and Automation for Threat Mitigation | <a href="https://github.com/edgonzalesjr/SOC-Automation-Lab">SOC Automation Lab</a>|
-  | Network Intrusion Detection System           | <a href="https://github.com/edgonzalesjr/Snort-Intrusion-Detection-System">Snort</a>|
-  | Malware Threat Assessment                     | <a href="https://github.com/edgonzalesjr/Malware-Analysis-Techniques">Malware Analysis Techniques</a>|
-  | Windows Forensics                            | <a href="https://github.com/edgonzalesjr/Windows-Memory-and-Event-Log-Analysis">Windows Memory and Event Log Analysis</a>|
-  | Phishing Threat Assessment                     | <a href="https://github.com/edgonzalesjr/Phishing-Threat-Analysis">OSINT-Based Phishing Email Analysis</a>|
-  | Ransomware Threat Assessment                     | <a href="https://github.com/edgonzalesjr/Ransomware-Investigation-with-Splunk">Ransomware Investigation with Splunk</a>|
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/edgonzalesjr/Detection-Lab">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/edgonzalesjr/Detecton-Lab">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/edgonzalesjr/SOC-Automation-Lab">SOC Automation Lab</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/edgonzalesjr/SOC-Automation-Lab">SOC Automation Lab</a>|
+| Case Management with TheHive                  | <a href="https://github.com/edgonzalesjr/SOC-Automation-Lab">SOC Automation Lab</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/edgonzalesjr/SOC-Automation-Lab">SOC Automation Lab</a>|
+| Network Intrusion Detection System           | <a href="https://github.com/edgonzalesjr/Snort-Intrusion-Detection-System">Snort</a>|
+| Malware Threat Assessment                     | <a href="https://github.com/edgonzalesjr/Malware-Analysis-Techniques">Malware Analysis Techniques</a>|
+| Windows Forensics                            | <a href="https://github.com/edgonzalesjr/Windows-Memory-and-Event-Log-Analysis">Windows Memory and Event Log Analysis</a>|
+| Phishing Threat Assessment                     | <a href="https://github.com/edgonzalesjr/Phishing-Threat-Analysis">OSINT-Based Phishing Email Analysis</a>|
+| Ransomware Threat Assessment                     | <a href="https://github.com/edgonzalesjr/Ransomware-Investigation-with-Splunk">Ransomware Investigation with Splunk</a>|
 
   ## Tools
 
@@ -80,3 +80,4 @@
   - <a href="https://github.com/edgonzalesjr/Phishing-Attack-Investigation-doc">Phishing & Persistence Analysis</a>
   - <a href="https://github.com/edgonzalesjr/Phishing-Attack-Investigation-hta">Phishing & Lateral Movement Investigation</a>
   - <a href="https://github.com/edgonzalesjr/Ransomware-Investigation-with-Splunk">Ransomware Investigation with Splunk</a>
+  - <a href="https://github.com/edgonzalesjr/Automated-Log-and-Threat-Analysis">Automated Log and Threat Analysis</a>
