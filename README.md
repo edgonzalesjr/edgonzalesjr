@@ -13,7 +13,7 @@ CompTIA Security+ certified with hands-on experience gained through cybersecurit
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/edgonzalesjr/SOC-Automation-Lab">SOC Automation Lab</a>|
 | Case Management with TheHive                  | <a href="https://github.com/edgonzalesjr/SOC-Automation-Lab">SOC Automation Lab</a>|
 | Network Intrusion Detection System            | <a href="https://github.com/edgonzalesjr/Snort-Intrusion-Detection-System">Snort</a>|
-| Malware Threat Assessment                     | <a href="https://github.com/edgonzalesjr/Malware-Analysis-Techniques">Malware Analysis Techniques</a>|
+| Malware Threat Assessment and Response Automation                     | <a href="https://github.com/edgonzalesjr/Malware-Analysis-Techniques">Malware Analysis Techniques</a>, <a href="https://github.com/edgonzalesjr/Automated-Log-and-Threat-Analysis">Automated Log and Threat Analysis</a>|
 | Windows Forensics                             | <a href="https://github.com/edgonzalesjr/Windows-Memory-and-Event-Log-Analysis">Windows Memory and Event Log Analysis</a>|
 | Phishing Threat Assessment                    | <a href="https://github.com/edgonzalesjr/Phishing-Threat-Analysis">OSINT-Based Phishing Email Analysis</a>, <a href="https://github.com/edgonzalesjr/Phishing-Unfolding">Phishing Unfolding</a>|
 | Ransomware Threat Assessment                  | <a href="https://github.com/edgonzalesjr/Ransomware-Investigation-with-Splunk">Ransomware Investigation with Splunk</a>|
