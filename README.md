@@ -2,7 +2,7 @@
 
   <a href="https://www.linkedin.com/in/edgonzalesjr"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://tryhackme.com/r/p/EdmundG"><img src="https://img.shields.io/badge/-TryHackMe-4A4A4A?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 
-CompTIA Security+ certified with hands-on experience gained through cybersecurity lab projects, completion of TryHackMe's SOC Level 1 learning path, and participation in the Advent of Cyber 2024 event demonstrates the practical application of key security concepts. Proven skills in incident response, SIEM technology, and security monitoring, aligning with Security Analyst responsibilities. Background in IT and network administration provides a foundation for understanding IT environments. I am eager to join a collaborative cybersecurity team and to contribute to strengthening the organization's security posture.
+CompTIA Security+ certified with hands-on experience gained through cybersecurity lab projects, completion of TryHackMe's SOC Level 1 learning path, and participation in the Advent of Cyber 2024 event demonstrates the practical application of key security concepts. Proven skills in incident response, SIEM technology, and security monitoring, aligning with Security Analyst responsibilities. Background in IT and network administration provides a foundation for understanding IT environments. I am eager to join a collaborative cybersecurity team and contribute to strengthening the organization's security posture.
 
 ## Skills
 
