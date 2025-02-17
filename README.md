@@ -18,7 +18,7 @@ CompTIA Security+ certified with hands-on experience gained through cybersecurit
 | Phishing Threat Assessment                    | <a href="https://github.com/edgonzalesjr/Phishing-Threat-Analysis">OSINT-Based Phishing Email Analysis</a>, <a href="https://github.com/edgonzalesjr/Phishing-Unfolding">Phishing Unfolding</a>|
 | Ransomware Threat Assessment                  | <a href="https://github.com/edgonzalesjr/Ransomware-Investigation-with-Splunk">Ransomware Investigation with Splunk</a>|
 | Malware Threat Assessment and Response Automation | <a href="https://github.com/edgonzalesjr/Automated-Log-and-Threat-Analysis">Automated Log and Threat Analysis</a>|
-| Threat Detection and Analysis | <a href="https://github.com/edgonzalesjr/Threat-Monitoring-Incident-Response-Using-LimaCharlie">Threat Monitoring and Incident Response Using Lima Charlie</a>|
+| Threat Detection and Analysis | <a href="https://github.com/edgonzalesjr/Threat-Monitoring-Incident-Response-Using-LimaCharlie">Threat Monitoring and Incident Response Using LimaCharlie</a>|
 
 ## Tools
 
