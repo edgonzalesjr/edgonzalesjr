@@ -20,6 +20,7 @@ CompTIA Security+ certified with hands-on experience gained through cybersecurit
 | Phishing Threat Assessment                    | <a href="https://github.com/edgonzalesjr/Phishing-Threat-Analysis">OSINT-Based Phishing Email Analysis</a>|
 | Ransomware Threat Assessment                  | <a href="https://github.com/edgonzalesjr/Ransomware-Investigation-with-Splunk">Ransomware Investigation with Splunk</a>|
 | Malware Threat Assessment and Response Automation | <a href="https://github.com/edgonzalesjr/Automated-Log-and-Threat-Analysis">Automated Log and Threat Analysis</a>|
+| Threat Detection and Analysis | <a href="https://github.com/edgonzalesjr/Threat-Monitoring-Incident-Response-Using-LimaCharlie">Threat Monitoring and Incident Response Using Lima Charlie</a>|
 
 ## Tools
 
@@ -33,6 +34,7 @@ CompTIA Security+ certified with hands-on experience gained through cybersecurit
 
 ### Endpoint
 <div>
+    <img src="https://img.shields.io/badge/-LimaCharlie-00A3E0?&style=for-the-badge&logo=cloud&logoColor=white" />
     <img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-003C40?&style=for-the-badge&logo=Wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sysmon-2F3A4E?&style=for-the-badge&logo=windows&logoColor=white" />
@@ -79,4 +81,5 @@ CompTIA Security+ certified with hands-on experience gained through cybersecurit
 - <a href="https://github.com/edgonzalesjr/Phishing-Attack-Investigation-doc">Phishing & Persistence Analysis</a>
 - <a href="https://github.com/edgonzalesjr/Phishing-Attack-Investigation-hta">Phishing & Lateral Movement Investigation</a>
 - <a href="https://github.com/edgonzalesjr/Ransomware-Investigation-with-Splunk">Ransomware Investigation with Splunk</a>
+- <a href="https://github.com/edgonzalesjr/Automated-Log-and-Threat-Analysis">Automated Log and Threat Analysis</a>
 - <a href="https://github.com/edgonzalesjr/Automated-Log-and-Threat-Analysis">Automated Log and Threat Analysis</a>
