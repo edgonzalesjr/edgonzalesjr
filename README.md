@@ -82,4 +82,4 @@ CompTIA Security+ certified with hands-on experience gained through cybersecurit
 - <a href="https://github.com/edgonzalesjr/Phishing-Attack-Investigation-hta">Phishing & Lateral Movement Investigation</a>
 - <a href="https://github.com/edgonzalesjr/Ransomware-Investigation-with-Splunk">Ransomware Investigation with Splunk</a>
 - <a href="https://github.com/edgonzalesjr/Automated-Log-and-Threat-Analysis">Automated Log and Threat Analysis</a>
-- <a href="https://github.com/edgonzalesjr/Automated-Log-and-Threat-Analysis">Automated Log and Threat Analysis</a>
+- <a href="https://github.com/edgonzalesjr/Threat-Monitoring-Incident-Response-Using-LimaCharlie">Threat Monitoring and Incident Response Using Lima Charlie</a>
