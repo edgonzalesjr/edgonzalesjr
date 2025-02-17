@@ -8,16 +8,16 @@ CompTIA Security+ certified with hands-on experience gained through cybersecurit
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/edgonzalesjr/Detection-Lab">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/edgonzalesjr/Detecton-Lab">Detection Lab</a>|
+| Threat Detection and Analysis | <a href="https://github.com/edgonzalesjr/Threat-Monitoring-Incident-Response-Using-LimaCharlie">Threat Monitoring and Incident Response Using LimaCharlie</a>|
+| Phishing Threat Assessment                    | <a href="https://github.com/edgonzalesjr/Phishing-Threat-Analysis">OSINT-Based Phishing Email Analysis</a>, <a href="https://github.com/edgonzalesjr/Phishing-Unfolding">Phishing Unfolding</a>|
+| Malware Threat Assessment and Response Automation | <a href="https://github.com/edgonzalesjr/Malware-Analysis-Techniques">Malware Analysis Techniques</a>, <a href="https://github.com/edgonzalesjr/Automated-Log-and-Threat-Analysis">Automated Log and Threat Analysis</a>|
+| Ransomware Threat Assessment                  | <a href="https://github.com/edgonzalesjr/Ransomware-Investigation-with-Splunk">Ransomware Investigation with Splunk</a>|
+| Windows Forensics                             | <a href="https://github.com/edgonzalesjr/Windows-Memory-and-Event-Log-Analysis">Windows Memory and Event Log Analysis</a>|
+| Network Intrusion Detection System            | <a href="https://github.com/edgonzalesjr/Snort-Intrusion-Detection-System">Snort</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/edgonzalesjr/SOC-Automation-Lab">SOC Automation Lab</a>|
 | Case Management with TheHive                  | <a href="https://github.com/edgonzalesjr/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Network Intrusion Detection System            | <a href="https://github.com/edgonzalesjr/Snort-Intrusion-Detection-System">Snort</a>|
-| Malware Threat Assessment and Response Automation | <a href="https://github.com/edgonzalesjr/Malware-Analysis-Techniques">Malware Analysis Techniques</a>, <a href="https://github.com/edgonzalesjr/Automated-Log-and-Threat-Analysis">Automated Log and Threat Analysis</a>|
-| Windows Forensics                             | <a href="https://github.com/edgonzalesjr/Windows-Memory-and-Event-Log-Analysis">Windows Memory and Event Log Analysis</a>|
-| Phishing Threat Assessment                    | <a href="https://github.com/edgonzalesjr/Phishing-Threat-Analysis">OSINT-Based Phishing Email Analysis</a>, <a href="https://github.com/edgonzalesjr/Phishing-Unfolding">Phishing Unfolding</a>|
-| Ransomware Threat Assessment                  | <a href="https://github.com/edgonzalesjr/Ransomware-Investigation-with-Splunk">Ransomware Investigation with Splunk</a>|
-| Threat Detection and Analysis | <a href="https://github.com/edgonzalesjr/Threat-Monitoring-Incident-Response-Using-LimaCharlie">Threat Monitoring and Incident Response Using LimaCharlie</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/edgonzalesjr/Detection-Lab">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/edgonzalesjr/Detecton-Lab">Detection Lab</a>|
 
 ## Tools
 
@@ -67,13 +67,13 @@ CompTIA Security+ certified with hands-on experience gained through cybersecurit
 </div>
 
 ## Projects
-- <a href="https://github.com/edgonzalesjr/Detecton-Lab">Detection Lab</a>
-- <a href="https://github.com/edgonzalesjr/SOC-Automation-Lab">SOC Automation Lab</a>
-- <a href="https://github.com/edgonzalesjr/Snort-Intrusion-Detection-System">Snort Intrusion Detection System</a>
-- <a href="https://github.com/edgonzalesjr/Malware-Analysis-Techniques">Malware Analysis Techniques</a>
-- <a href="https://github.com/edgonzalesjr/Windows-Memory-and-Event-Log-Analysis">Windows Memory and Event Log Analysis</a>
+- <a href="https://github.com/edgonzalesjr/Threat-Monitoring-Incident-Response-Using-LimaCharlie">Threat Monitoring and Incident Response Using LimaCharlie</a>
 - <a href="https://github.com/edgonzalesjr/Phishing-Threat-Analysis">OSINT-Based Phishing Email Analysis</a>
 - <a href="https://github.com/edgonzalesjr/Phishing-Unfolding">Phishing Unfolding</a>
-- <a href="https://github.com/edgonzalesjr/Ransomware-Investigation-with-Splunk">Ransomware Investigation with Splunk</a>
+- <a href="https://github.com/edgonzalesjr/Malware-Analysis-Techniques">Malware Analysis Techniques</a>
 - <a href="https://github.com/edgonzalesjr/Automated-Log-and-Threat-Analysis">Automated Log and Threat Analysis</a>
-- <a href="https://github.com/edgonzalesjr/Threat-Monitoring-Incident-Response-Using-LimaCharlie">Threat Monitoring and Incident Response Using LimaCharlie</a>
+- <a href="https://github.com/edgonzalesjr/Ransomware-Investigation-with-Splunk">Ransomware Investigation with Splunk</a>
+- <a href="https://github.com/edgonzalesjr/Windows-Memory-and-Event-Log-Analysis">Windows Memory and Event Log Analysis</a>
+- <a href="https://github.com/edgonzalesjr/Snort-Intrusion-Detection-System">Snort Intrusion Detection System</a>
+- <a href="https://github.com/edgonzalesjr/SOC-Automation-Lab">SOC Automation Lab</a>
+- <a href="https://github.com/edgonzalesjr/Detecton-Lab">Detection Lab</a>
