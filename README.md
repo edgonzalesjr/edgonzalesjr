@@ -35,8 +35,7 @@ CompTIA Security+ certified with hands-on experience gained through cybersecurit
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-LimaCharlie-00A3E0?&style=for-the-badge&logo=cloud&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-003C40?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />    
     <img src="https://img.shields.io/badge/-Sysmon-2F3A4E?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
