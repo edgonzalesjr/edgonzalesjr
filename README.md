@@ -67,6 +67,7 @@ CompTIA Security+ certified with hands-on experience gained through cybersecurit
 </div>
 
 ## Projects
+- <a href="https://github.com/edgonzalesjr/Ticketing-System-for-Incident-Management-Using-ServiceNow">Ticketing System for Incident Management Using ServiceNow</a>
 - <a href="https://github.com/edgonzalesjr/Threat-Monitoring-Incident-Response-Using-LimaCharlie">Threat Monitoring and Incident Response Using LimaCharlie</a>
 - <a href="https://github.com/edgonzalesjr/Phishing-Threat-Analysis">OSINT-Based Phishing Email Analysis</a>
 - <a href="https://github.com/edgonzalesjr/Phishing-Unfolding">Phishing Unfolding</a>
