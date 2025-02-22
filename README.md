@@ -8,7 +8,7 @@ CompTIA Security+ certified with hands-on experience gained through cybersecurit
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Incident Management with ServiceNow | <a href="https://github.com/edgonzalesjr/Ticketing-System-for-Incident-Management-Using-ServiceNow">Ticketing System for Incident Management Using ServiceNow</a>>Threat Monitoring and Incident Response Using LimaCharlie</a>|
+| Incident Management with ServiceNow | <a href="https://github.com/edgonzalesjr/Ticketing-System-for-Incident-Management-Using-ServiceNow">Ticketing System for Incident Management Using ServiceNow</a>|
 | Threat Detection and Analysis | <a href="https://github.com/edgonzalesjr/Threat-Monitoring-Incident-Response-Using-LimaCharlie">Threat Monitoring and Incident Response Using LimaCharlie</a>|
 | Phishing Threat Assessment                    | <a href="https://github.com/edgonzalesjr/Phishing-Threat-Analysis">OSINT-Based Phishing Email Analysis</a>, <a href="https://github.com/edgonzalesjr/Phishing-Unfolding">Phishing Unfolding</a>|
 | Malware Threat Assessment and Response Automation | <a href="https://github.com/edgonzalesjr/Malware-Analysis-Techniques">Malware Analysis Techniques</a>, <a href="https://github.com/edgonzalesjr/Automated-Log-and-Threat-Analysis">Automated Log and Threat Analysis</a>|
