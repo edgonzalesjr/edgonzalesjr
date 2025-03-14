@@ -27,6 +27,7 @@ CompTIA Security+ certified with hands-on experience gained through cybersecurit
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-tcpdump-FF6F61?&style=for-the-badge&logo=tcpdump&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-FFCC00?&style=for-the-badge&logo=snort&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Snort-F44336?&style=for-the-badge&logo=snort&logoColor=black" />
 </div>
 
 ### Endpoint
