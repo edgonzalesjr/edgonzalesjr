@@ -33,6 +33,7 @@ CompTIA Security+ certified with hands-on experience gained through cybersecurit
 <div>
     <img src="https://img.shields.io/badge/-CrowdStrike_Falcon-E4002B?&style=for-the-badge&logo=crowdstrike&logoColor=white" />
     <img src="https://img.shields.io/badge/-LimaCharlie-00A3E0?&style=for-the-badge&logo=cloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LimaCharlie-00A3E0?&style=for-the-badge&logo=cloud&logoColor=white" />
     <img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />    
     <img src="https://img.shields.io/badge/-Sysmon-2F3A4E?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
