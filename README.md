@@ -25,8 +25,7 @@ CompTIA Security+ certified with hands-on experience gained through cybersecurit
 <div>
     <img src="https://img.shields.io/badge/-FortiGate_NGFW-E34C26?&style=for-the-badge&logo=fortinet&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-tcpdump-FF6F61?&style=for-the-badge&logo=tcpdump&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Snort-FFCC00?&style=for-the-badge&logo=snort&logoColor=black" />
+    <img src="https://img.shields.io/badge/-tcpdump-FF6F61?&style=for-the-badge&logo=tcpdump&logoColor=white" />    
     <img src="https://img.shields.io/badge/-Snort-F44336?&style=for-the-badge&logo=snort&logoColor=black" />
 </div>
 
@@ -45,7 +44,8 @@ CompTIA Security+ certified with hands-on experience gained through cybersecurit
 
 ### Virtualization
 <div>
-    <img src="https://img.shields.io/badge/-AWS%20EC2-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />    
+    <img src="https://img.shields.io/badge/-AWS%20EC2-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS%20EC2-EF931E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
     <img src="https://img.shields.io/badge/-VMware%20Workstation%20Pro-607078?&style=for-the-badge&logo=vmware&logoColor=white" />
 </div>
 
