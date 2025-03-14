@@ -66,7 +66,7 @@ CompTIA Security+ certified with hands-on experience gained through cybersecurit
 </div>
 
 ## Projects
-- <a href="https://github.com/edgonzalesjr/https://github.com/edgonzalesjr/AWS-Cloud-Security-with-IAM-and-VPC-Flow-Logs">AWS Cloud Security with IAM and VPC Flow Logs</a>
+- <a href="https://github.com/edgonzalesjr/AWS-Cloud-Security-with-IAM-and-VPC-Flow-Logs">AWS Cloud Security with IAM and VPC Flow Logs</a>
 - <a href="https://github.com/edgonzalesjr/Ticketing-System-for-Incident-Management-Using-ServiceNow">Ticketing System for Incident Management Using ServiceNow</a>
 - <a href="https://github.com/edgonzalesjr/Threat-Monitoring-Incident-Response-Using-LimaCharlie">Threat Monitoring and Incident Response Using LimaCharlie</a> and <a href="https://github.com/edgonzalesjr/Threat-Monitoring-Incident-Response-Using-CrowdStike-Falcon">CrowdStrike Falcon</a>
 - <a href="https://github.com/edgonzalesjr/Phishing-Threat-Analysis">OSINT-Based Phishing Email Analysis</a>
