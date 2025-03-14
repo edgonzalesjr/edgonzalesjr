@@ -55,10 +55,8 @@ CompTIA Security+ certified with hands-on experience gained through cybersecurit
 </div>
   
 ## Training
-<div>
-  <img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201-00A8E8?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+<div>  
   <img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201-0e4a6f?&style=for-the-badge&logo=tryhackme&logoColor=white" />
-
 </div>
   
 ## Certifications
