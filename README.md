@@ -43,10 +43,10 @@ CompTIA Security+ certified with hands-on experience gained through cybersecurit
 </div>
 
 ### Virtualization
-<div>
-    <img src="https://img.shields.io/badge/-AWS%20EC2-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+<div>    
     <img src="https://img.shields.io/badge/-AWS%20EC2-EF931E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
     <img src="https://img.shields.io/badge/-VMware%20Workstation%20Pro-607078?&style=for-the-badge&logo=vmware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware%20Workstation%20Pro-363e94?&style=for-the-badge&logo=vmware&logoColor=white" />
 </div>
 
 ### Digital Forensics
