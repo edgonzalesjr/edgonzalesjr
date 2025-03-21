@@ -15,7 +15,8 @@ CompTIA Security+ certified with hands-on experience gained through cybersecurit
 | Malware Threat Assessment and Response Automation | <a href="https://github.com/edgonzalesjr/Malware-Analysis-Techniques">Malware Analysis Techniques</a>, <a href="https://github.com/edgonzalesjr/Automated-Log-and-Threat-Analysis">Automated Log and Threat Analysis</a>|
 | Ransomware Threat Assessment                  | <a href="https://github.com/edgonzalesjr/Ransomware-Investigation-with-Splunk">Ransomware Investigation with Splunk</a>|
 | Windows Forensics                             | <a href="https://github.com/edgonzalesjr/Windows-Memory-and-Event-Log-Analysis">Windows Memory and Event Log Analysis</a>|
-| Network Intrusion Detection System            | <a href="https://github.com/edgonzalesjr/Snort-Intrusion-Detection-System">Snort</a>|
+| Vulnerability Management                      | <a href="https://github.com/edgonzalesjr/Tenable-Nessus-Vulnerability-Management">Tenable Nessus Vulnerability Management</a>|
+| Network Intrusion Detection System            | <a href="https://github.com/edgonzalesjr/Snort-Intrusion-Detection-System">Snort Intrusion Detection System</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/edgonzalesjr/SOC-Automation-Lab">SOC Automation Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/edgonzalesjr/Detection-Lab">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/edgonzalesjr/Detecton-Lab">Detection Lab</a>|
