@@ -9,6 +9,7 @@ CompTIA Security+ certified with hands-on experience gained through cybersecurit
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Access Control and Permissions | <a href="https://github.com/edgonzalesjr/AWS-Cloud-Security-with-IAM-and-VPC-Flow-Logs">AWS Cloud Security with IAM and VPC Flow Logs</a>|
 | Incident Management with ServiceNow | <a href="https://github.com/edgonzalesjr/Ticketing-System-for-Incident-Management-Using-ServiceNow">Ticketing System for Incident Management Using ServiceNow</a>|
 | Threat Detection and Analysis | <a href="https://github.com/edgonzalesjr/Threat-Monitoring-Incident-Response-Using-LimaCharlie">Threat Monitoring and Incident Response Using LimaCharlie</a> and <a href="https://github.com/edgonzalesjr/Threat-Monitoring-Incident-Response-Using-CrowdStike-Falcon">CrowdStrike Falcon</a>|
 | Phishing Threat Assessment                    | <a href="https://github.com/edgonzalesjr/Phishing-Threat-Analysis">OSINT-Based Phishing Email Analysis</a>, <a href="https://github.com/edgonzalesjr/Phishing-Unfolding">Phishing Unfolding</a>|
