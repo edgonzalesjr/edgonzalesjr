@@ -65,7 +65,7 @@ Cybersecurity professional with a diverse technical background and certification
 ## Certifications
 <div>  
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-FF0000?style=for-the-badge&logo=ISC2&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-00A651?&style=for-the-badge&logo=ISC2&logoColor=white" />
   <img src="https://img.shields.io/badge/-Fortinet%20NSE%203%20Network%20Security%20Associate-003E6C?&style=for-the-badge&logo=Fortinet&logoColor=white" />
   <img src="https://img.shields.io/badge/-Huawei%20HCIA%20Cloud%20Computing-00B3E2?&style=for-the-badge&logo=Huawei&logoColor=white" />
 </div>
