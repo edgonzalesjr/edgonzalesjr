@@ -16,7 +16,7 @@ Aspiring cybersecurity professional with a diverse technical background and cert
 | Malware Threat Assessment and Response Automation | <a href="https://github.com/edgonzalesjr/Malware-Analysis-Techniques">Malware Analysis Techniques</a>, <a href="https://github.com/edgonzalesjr/Automated-Log-and-Threat-Analysis">Automated Log and Threat Analysis</a>|
 | Ransomware Threat Assessment                  | <a href="https://github.com/edgonzalesjr/Ransomware-Investigation-with-Splunk">Ransomware Investigation with Splunk</a>|
 | Windows Forensics                             | <a href="https://github.com/edgonzalesjr/Windows-Memory-and-Event-Log-Analysis">Windows Memory and Event Log Analysis</a>|
-| Vulnerability Management                      | <a href="https://github.com/edgonzalesjr/Tenable-Nessus-Vulnerability-Management">Tenable Nessus Vulnerability Management</a>|
+| Vulnerability Assessment                      | <a href="https://github.com/edgonzalesjr/Tenable-Nessus-Vulnerability-Management">Tenable Nessus Vulnerability Assessment</a>|
 | Network Intrusion Detection System            | <a href="https://github.com/edgonzalesjr/Snort-Intrusion-Detection-System">Snort Intrusion Detection System</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/edgonzalesjr/SOC-Automation-Lab">SOC Automation Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/edgonzalesjr/Detection-Lab">Detection Lab</a>|
