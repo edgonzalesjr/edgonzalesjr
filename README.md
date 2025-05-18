@@ -24,10 +24,10 @@ Aspiring cybersecurity professional with a diverse technical background and cert
 
 ## Certifications
 <div>  
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ISC%C2%B2%20CC-006699?&style=for-the-badge&logo=ISC2&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Fortinet%20NSE%203%20Network%20Security%20Associate-003E6C?&style=for-the-badge&logo=Fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Huawei%20HCIA%20Cloud%20Computing-00B3E2?&style=for-the-badge&logo=Huawei&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+ <img src="https://img.shields.io/badge/-ISC%C2%B2%20CC-006699?&style=for-the-badge&logo=ISC2&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Fortinet%20NSE%203%20Network%20Security%20Associate-003E6C?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Huawei%20HCIA%20Cloud%20Computing-00B3E2?&style=for-the-badge&logo=Huawei&logoColor=white" />
 </div>
 
 ## Training
@@ -39,35 +39,35 @@ Aspiring cybersecurity professional with a diverse technical background and cert
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-FortiGate_NGFW-E34C26?&style=for-the-badge&logo=fortinet&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />    
-    <img src="https://img.shields.io/badge/-tcpdump-5D5D5D?&style=for-the-badge&logo=tcpdump&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Snort-F44336?&style=for-the-badge&logo=snort&logoColor=black" />
+ <img src="https://img.shields.io/badge/-FortiGate_NGFW-E34C26?&style=for-the-badge&logo=fortinet&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />    
+ <img src="https://img.shields.io/badge/-tcpdump-5D5D5D?&style=for-the-badge&logo=tcpdump&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Snort-F44336?&style=for-the-badge&logo=snort&logoColor=black" />
 </div>
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-CrowdStrike_Falcon-E4002B?&style=for-the-badge&logo=crowdstrike&logoColor=white" />    
-    <img src="https://img.shields.io/badge/-LimaCharlie-00A3E0?&style=for-the-badge&logo=cloud&logoColor=white" />    
-    <img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />    
-    <img src="https://img.shields.io/badge/-Sysmon-2F3A4E?&style=for-the-badge&logo=windows&logoColor=white" />
+ <img src="https://img.shields.io/badge/-CrowdStrike_Falcon-E4002B?&style=for-the-badge&logo=crowdstrike&logoColor=white" />    
+ <img src="https://img.shields.io/badge/-LimaCharlie-00A3E0?&style=for-the-badge&logo=cloud&logoColor=white" />    
+ <img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />    
+ <img src="https://img.shields.io/badge/-Sysmon-2F3A4E?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
 ### Virtualization
 <div>    
-    <img src="https://img.shields.io/badge/-AWS%20EC2-EF931E?&style=for-the-badge&logo=amazonaws&logoColor=white" />    
-    <img src="https://img.shields.io/badge/-VMware%20Workstation%20Pro-363e94?&style=for-the-badge&logo=vmware&logoColor=white" />
+ <img src="https://img.shields.io/badge/-AWS%20EC2-EF931E?&style=for-the-badge&logo=amazonaws&logoColor=white" />    
+ <img src="https://img.shields.io/badge/-VMware%20Workstation%20Pro-363e94?&style=for-the-badge&logo=vmware&logoColor=white" />
 </div>
 
 ### Digital Forensics
 <div>
-    <img src="https://img.shields.io/badge/-Volatility%203-000000?&style=for-the-badge&logo=appveyor&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Deep%20Blue%20CLI-0033A0?&style=for-the-badge&logo=windows&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Volatility%203-000000?&style=for-the-badge&logo=appveyor&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Deep%20Blue%20CLI-0033A0?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
 ### Programming and Scripting Languages
@@ -75,6 +75,7 @@ Aspiring cybersecurity professional with a diverse technical background and cert
  <img src="https://img.shields.io/badge/-C%23-239120?&style=for-the-badge&logo=c-sharp&logoColor=white" />
  <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
  <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" />
+ <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
 </div>
 
 ## Projects
