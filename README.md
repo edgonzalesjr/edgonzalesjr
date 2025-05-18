@@ -22,6 +22,19 @@ Aspiring cybersecurity professional with a diverse technical background and cert
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/edgonzalesjr/Detection-Lab">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/edgonzalesjr/Detecton-Lab">Detection Lab</a>|
 
+## Certifications
+<div>  
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ISC%C2%B2%20CC-006699?&style=for-the-badge&logo=ISC2&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Fortinet%20NSE%203%20Network%20Security%20Associate-003E6C?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Huawei%20HCIA%20Cloud%20Computing-00B3E2?&style=for-the-badge&logo=Huawei&logoColor=white" />
+</div>
+
+## Training
+<div>  
+  <img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201-0e4a6f?&style=for-the-badge&logo=tryhackme&logoColor=white" />
+</div>
+
 ## Tools
 
 ### Network
@@ -56,18 +69,10 @@ Aspiring cybersecurity professional with a diverse technical background and cert
     <img src="https://img.shields.io/badge/-Volatility%203-000000?&style=for-the-badge&logo=appveyor&logoColor=white" />
     <img src="https://img.shields.io/badge/-Deep%20Blue%20CLI-0033A0?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
-  
-## Training
-<div>  
-  <img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201-0e4a6f?&style=for-the-badge&logo=tryhackme&logoColor=white" />
-</div>
-  
-## Certifications
-<div>  
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ISC%C2%B2%20CC-006699?&style=for-the-badge&logo=ISC2&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Fortinet%20NSE%203%20Network%20Security%20Associate-003E6C?&style=for-the-badge&logo=Fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Huawei%20HCIA%20Cloud%20Computing-00B3E2?&style=for-the-badge&logo=Huawei&logoColor=white" />
+
+### Programming and Scripting Languages
+<div>
+    <img src="https://img.shields.io/badge/-C%23-239120?&style=for-the-badge&logo=c-sharp&logoColor=white" />
 </div>
 
 ## Projects
