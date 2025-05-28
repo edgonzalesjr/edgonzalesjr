@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/edgonzalesjr"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://tryhackme.com/r/p/EdmundG"><img src="https://img.shields.io/badge/-TryHackMe-FF5733?&style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a>
 
-Aspiring cybersecurity professional with a diverse technical background and certifications in CompTIA Security+ and ISC² CC. Equipped with hands-on experience from the TryHackMe SOC Level 1 learning path and practical skills developed through cybersecurity lab projects. With a decade of experience in technical support, possesses valuable awareness into IT infrastructure, system administration, and network security. Committed to proactive security measures, continuous monitoring, and threat analysis in collaborative, fast-paced environments, focused at enhancing organizational security posture.
+Emerging SOC Analyst with a diverse technical background and certifications in CompTIA Security+ and ISC² CC. Equipped with hands-on experience from SOC-related online trainings and practical skills developed through cybersecurity lab projects. With a decade of experience in technical support, I bring valuable insights into IT infrastructure, system administration, and network security. Committed to proactive security measures, continuous monitoring, and threat analysis in collaborative, fast-paced environments, with a focus on enhancing organizational security posture.
 
 ## Skills
 
@@ -34,8 +34,7 @@ Aspiring cybersecurity professional with a diverse technical background and cert
 <div>  
   <img src="https://img.shields.io/badge/-IBM%20Cybersecurity%20Fundamentals-0066cc?&style=for-the-badge&logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201-2d4059?&style=for-the-badge&logo=tryhackme&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Qualys%20Vulnerability%20Management%20Foundation-4a90e2?&style=for-the-badge&logo=qualys&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Fortinet%20Introduction%20to%20the%20Threat%20Landscape-0e4a6f?&style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Qualys%20Vulnerability%20Management%20Foundation-4a90e2?&style=for-the-badge&logo=qualys&logoColor=white" />  
   <img src="https://img.shields.io/badge/-Fortinet%20Introduction%20to%20the%20Threat%20Landscape-1d8f5f?&style=for-the-badge&logo=fortinet&logoColor=white" />
 </div>
 
