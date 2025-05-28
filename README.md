@@ -32,9 +32,9 @@ Aspiring cybersecurity professional with a diverse technical background and cert
 
 ## Training
 <div>  
-  <img src="https://img.shields.io/badge/-IBM%20Cybersecurity%20Fundamentals-0e4a6f?&style=for-the-badge&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201-0e4a6f?&style=for-the-badge&logo=tryhackme&logoColor=white" />  
-  <img src="https://img.shields.io/badge/-Qualys%20Vulnerability%20Management%20Foundation-0e4a6f?&style=for-the-badge&logo=qualys&logoColor=white" />
+  <img src="https://img.shields.io/badge/-IBM%20Cybersecurity%20Fundamentals-0066cc?&style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201-2d4059?&style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Qualys%20Vulnerability%20Management%20Foundation-4a90e2?&style=for-the-badge&logo=qualys&logoColor=white" />
   <img src="https://img.shields.io/badge/-Fortinet%20Introduction%20to%20the%20Threat%20Landscape-0e4a6f?&style=for-the-badge&logo=fortinet&logoColor=white" />
 </div>
 
