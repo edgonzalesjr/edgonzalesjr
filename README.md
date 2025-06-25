@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/edgonzalesjr"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://tryhackme.com/r/p/EdmundG"><img src="https://img.shields.io/badge/-TryHackMe-FF5733?&style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a>
 
-Emerging SOC Analyst with a diverse technical background and certifications in CompTIA Security+ and ISC² CC. Equipped with hands-on experience from SOC-related online trainings and practical skills developed through cybersecurity lab projects. With a decade of experience in technical support, I bring valuable insights into IT infrastructure, system administration, and network security. Committed to proactive security measures, continuous monitoring, and threat analysis in collaborative, fast-paced environments, with a focus on enhancing organizational security posture.
+Aspiring Security Analyst with a diverse technical background and certifications in CompTIA Security+ and ISC² CC. Equipped with hands-on experience from SOC-related online trainings and practical skills developed through cybersecurity lab projects. With a decade of experience in technical support, I bring valuable insights into IT infrastructure, system administration, and network security. Committed to proactive security measures, continuous monitoring, and threat analysis in collaborative, fast-paced environments, with a focus on enhancing organizational security posture.
 
 ## Skills
 
