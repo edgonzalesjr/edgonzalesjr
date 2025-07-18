@@ -3,7 +3,11 @@
   <a href="https://www.linkedin.com/in/edgonzalesjr"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://tryhackme.com/r/p/EdmundG"><img src="https://img.shields.io/badge/-TryHackMe-FF5733?&style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a>
 
-Aspiring Security Analyst with a diverse technical background and certifications in CompTIA Security+ and ISC² CC. Equipped with hands-on experience from SOC-related online trainings and practical skills developed through cybersecurity lab projects. With a decade of experience in technical support, I bring valuable insights into IT infrastructure, system administration, and network security. Committed to proactive security measures, continuous monitoring, and threat analysis in collaborative, fast-paced environments, with a focus on enhancing organizational security posture.
+I’m an experienced IT professional with over a decade of proven experience supporting and maintaining IT systems across various business environments. My background spans IT support, system administration, and infrastructure management — ensuring users, networks, and systems operate smoothly and securely.
+
+Throughout my career, I’ve built a reputation for being reliable, solutions-focused, and adaptable in both technical and user-facing roles. I hold certifications in CompTIA Security+ and ISC² Certified in Cybersecurity (CC), which have enhanced my approach to IT support by integrating security awareness into everyday tasks — whether it's managing user accounts, resolving technical issues, or maintaining network devices.
+
+With a passion for continuous learning and a strong foundation in troubleshooting, system optimization, and cybersecurity fundamentals, I’m eager to contribute to teams that value technical excellence, reliability, and proactive problem-solving.
 
 ## Skills
 
